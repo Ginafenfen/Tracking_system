@@ -38,5 +38,7 @@
 
 * PHP framework
 * Tailwind CSS
+* yii2 framework
+* xampp server for db
 
 
