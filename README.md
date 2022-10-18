@@ -34,4 +34,9 @@
  <img src="img/image5.png">
   
 
+## Technology 
+
+* PHP framework
+* Tailwind CSS
+
 
